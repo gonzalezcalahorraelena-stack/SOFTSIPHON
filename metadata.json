@@ -1,0 +1,6 @@
+{
+  "name": "SoftSiphon",
+  "description": "Elite corporate software preview for SoftSiphon. Features an interactive neural data-flow network map, real-time telemetry metrics, dynamic siphon pipeline code stream, and an integrated Gemini AI Architect assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
